@@ -4,3 +4,4 @@ It provides real time insights into key metrices like revenue and conversion rat
 have led to a 15% increase in sales.
 
 # Superstore sales Dashboard:-
+This Dashboard provides a comprehensive view of sales data, helping us make informed decision to drive growth.
